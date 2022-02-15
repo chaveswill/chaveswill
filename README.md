@@ -23,7 +23,6 @@
 
 
 ### :pushpin: Habilidades
-<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title = "NODEJS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
@@ -41,13 +40,13 @@
 
 
 ### :pushpin: Hobbies
-:video_game: Adoro games, e meu preferido é o LoLzinho
+- :video_game: Adoro games, e meu preferido é o LoLzinho
 
-:airplane: Sempre que posso, faço uma viagem. Amo conhecer novos lugares, principalmente se esses lugares posssuirem praias :sunrise:
+- :airplane: Sempre que posso, faço uma viagem. Amo conhecer novos lugares, principalmente se esses lugares posssuirem praias :sunrise:
 
-:soccer: Modéstia à parte, sou um ótimo jogador de futebol
+- :soccer: Modéstia à parte, sou um ótimo jogador de futebol
 
-:wine_glass: Apreciador de vinhos
+- :wine_glass: Apreciador de vinhos, de aviação :airplane: e de todas as leis físicas por trás dela
 
 
 
