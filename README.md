@@ -9,7 +9,7 @@
 
 
 
-:beginner: Olá, me chamo Wilker Chaves , tenho 28 anos e sou graduado em Ciência da Computação :mortar_board::computer: pela Universidade Federal do Oeste do Pará. 
+:beginner: Olá, me chamo Wilker Chaves e sou graduado em Ciência da Computação :mortar_board::computer: pela Universidade Federal do Oeste do Pará. 
 
 :revolving_hearts: Durante a graduação, tive contato com algumas tecnologias e desde então me apaixonei por programação 
 
