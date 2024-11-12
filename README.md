@@ -15,7 +15,7 @@
 
 :zap: Sou entusiasta em desenvolvimento web, com foco em soluções back end. Ja tive experiências acadêmicas com as linguagens PHP, JavaScript e os servidores de dados como MySQL e MongoDB.
 
-:books: Atualmente sou desenvolvedor Java:moneybag:
+:books: Atualmente desenvolvo utilizando Java e Angular:moneybag:
 
 </br>
 </br>
